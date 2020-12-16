@@ -11,6 +11,8 @@ class NinjaCard extends StatelessWidget {
       appBar: AppBar(
         title: Text("Ninja ID Card"),
         centerTitle: true,
+        backgroundColor: Colors.grey[850],
+        elevation: 0.0,
       )
     );
   }
