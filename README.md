@@ -1,6 +1,7 @@
 # ninja_id
 
-A new Flutter application.
+A new Flutter Android application for smart phones.
+This is a demo app for gathering Ninja identification.
 
 ## Getting Started
 
